@@ -1,0 +1,21 @@
+package Ejercicio8;
+
+public enum Curso {
+    MATEMATICA,
+    FISICA,
+    QUIMICA,
+    BIOLOGIA,
+    HISTORIA,
+    GEOGRAFIA,
+    LITERATURA,
+    IDIOMAS,
+    ARTES,
+    INFORMATICA,
+    FILOSOFIA,
+    SOCIOLOGIA,
+    PSICOLOGIA,
+    ECONOMIA,
+    ADMINISTRACION_DE_EMPRESAS,
+    DERECHO,
+    MEDICINA
+}

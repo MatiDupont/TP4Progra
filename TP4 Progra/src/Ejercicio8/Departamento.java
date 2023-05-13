@@ -1,0 +1,15 @@
+package Ejercicio8;
+
+public enum Departamento {
+    AGRONOMIA,
+    ARQUITECTURA,
+    INGENIERIA,
+    HUMANIDADES,
+    GEOLOGIA,
+    CIENCIAS_DE_LA_ADMINISTRACION,
+    DERECHO,
+    MATEMATICA,
+    QUIMICA,
+    ECONOMIA,
+    FISICA;
+}

@@ -1,0 +1,12 @@
+package Ejercicio8;
+
+public enum Seccion {
+    DECANATO,
+    BIBLIOTECA,
+    DIRECCION,
+    SECRETARIA,
+    AULAS,
+    LABORATORIOS,
+    DEPARTAMENTOS_ACADEMICOS,
+    SERVICIOS_APOYO;
+}
