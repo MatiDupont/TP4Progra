@@ -37,7 +37,6 @@ public abstract class Persona {
     public int getDNI() {
         return DNI;
     }
-
     public EstadoCivil getEstado() {
         return estado;
     }
